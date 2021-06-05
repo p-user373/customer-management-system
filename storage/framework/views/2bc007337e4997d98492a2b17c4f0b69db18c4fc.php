@@ -1,0 +1,1 @@
+<?php echo e($information); ?><?php /**PATH C:\xampp\htdocs\customer_management_system\resources\views/information.blade.php ENDPATH**/ ?>
